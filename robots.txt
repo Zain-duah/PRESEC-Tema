@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://presec-tema.vercel.app/sitemap.xml

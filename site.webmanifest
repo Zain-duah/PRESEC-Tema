@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "PRESEC-TEMA | Knowledge Is Light",
+  "short_name": "PRESEC-TEMA",
+  "description": "Discover PRESEC-TEMA, a Presbyterian senior high school community in Tema, Ghana.",
+  "lang": "en-GH",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#101b4d",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "228x221",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
